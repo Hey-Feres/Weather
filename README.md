@@ -11,5 +11,8 @@ Weather App is a Swift Application developed during the App Brewery's iOS 13 & S
 📱 API Requests
 
 ## App Screen
+
 <img align="left" src="https://github.com/Hey-Feres/Weather-App-iOS-13/blob/master/Documentation/Print1.png">
-<img align="right" src="https://github.com/Hey-Feres/Weather-App-iOS-13/blob/master/Documentation/Print2.png">
+### Light Mode
+<img align="left" src="https://github.com/Hey-Feres/Weather-App-iOS-13/blob/master/Documentation/Print2.png">
+### Dark Mode
